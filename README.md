@@ -5,4 +5,6 @@ Thanks to the large Tableau community and to the documentation and support of Ta
 
 I feel the obligation to share this with the community that has inspired me to write those tools, and to invite developers to contribute to the code.
 
+I will be updating this repository as soon as I cleanup my dusty code.
+
 --manolis m. tsangaris
